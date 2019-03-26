@@ -1,3 +1,5 @@
+# TrajPy
+
 This is a program that computes a source region impact factor using the outputs of the Hybrid Single Particle
 Lagrangian Integrated Trajectory model (http://ready.arl.noaa.gov/hypub-bin/trajtype.pl?runtype=archive). Trajpy v. 2.0 was
 created as a result of an [undergraduate thesis](./Undergrad_Thesis.pdf) done at Reed College by Jonathan Tamsut under the advisement of Christopher Walsh.
